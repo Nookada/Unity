@@ -1,6 +1,10 @@
 # 2D Unity Game
 Go down stairs!
 
+And this is the flowchart of the game 
+
+<img src="Images/Flowchart.png" width="700" height="500">
+
 Press the start that the program begins to execute. The character appears on the top platform and then starts to drop. 
 
 During the descent, the system determines whether the character contacts the ceiling.
