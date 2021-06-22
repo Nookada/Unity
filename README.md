@@ -1,7 +1,19 @@
 # 2D Unity Game
 Go down stairs!
 
-And this is the flowchart of the game 
+
+# How to play
+Download the <a href="https://github.com/Nookada/Unity/raw/main/UserManual.7z" target="_blank">Usermanual.7z</a> and check out how to play this!
+(Extract and run home.html)
+
+# How to Download 
+You can simply just download the <a href="https://github.com/Nookada/Unity/raw/main/Downstairs.7z " target="_blank">Downstairs.7z</a> in this repo
+
+Or you can click the download button in the usermanual
+
+Or you can just play it online!<a href="https://play.unity.com/mg/other/xiao-peng-you-xia-lou-ti" target="_blank">Click here</a>
+
+# flowchart of the game 
 
 <img src="Images/Flowchart.png" width="700" height="500">
 
@@ -29,4 +41,6 @@ If the character drop on platform, the system determines which type of platform 
 If drop on normal platform that Player continue to controls the character. 
 
 If drop on spikes platform, the character death and program ends.
+
+
 
