@@ -7,4 +7,4 @@ Thats why it will drop down like having some kind of gravity
 
 # The Rigidbody 2D
 
-<img src="Images/RIGID.jpg" width="700" height="500">
+<img src="Images/RIGID.jpg" width="1400" height="500">
